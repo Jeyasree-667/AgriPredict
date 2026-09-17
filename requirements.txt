@@ -2,4 +2,5 @@ pandas
 scikit-learn
 joblib
 matplotlib
-streamlit
+Flask
+Flask-CORS
